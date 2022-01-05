@@ -5,11 +5,11 @@ Project to test different predictive algorithms to find if a Kickstarter project
 
 
 ## _Description_
-The idea behind this project is to use different predictive algorithms, and compare the results.
-The dataset we use is found on Kaggle.
-We try to predict if a Kickstarter project will succeed or fail to reach its goal in the given time.
-We build a usable dataset by taking into account different features that might impact the result (category, number of days, number of projects the same day, ...)
-We use different algorithms (SVM, Random Forest, Neural Network, ...)
+The idea behind this project is to use different predictive algorithms, and compare the results <br>
+The dataset we use is found on Kaggle <br>
+We try to predict if a Kickstarter project will succeed or fail to reach its goal in the given time <br>
+We build a usable dataset by taking into account different features that might impact the result (category, number of days, number of projects the same day, ...) <br>
+We use different algorithms (SVM, Random Forest, Neural Network, ...) <br>
 
 ### _Structure_
 - **Final_Report.pdf** : main report file, with results and method
